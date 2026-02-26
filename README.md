@@ -14,7 +14,7 @@
 
 ## 💻 Projects I'm Proud Of
 
-Here are a few projects (from your GitHub activity) that reflect what you do best:
+Here are a few projects (from your GitHub activity) that reflect what I do best:
 
 - **Document Scanner (Flutter + C++)** — Edge detection, cropping, and clean scanning.  
 - **LGA / States Package** — A Dart package for Nigerian states and local government areas data.  
