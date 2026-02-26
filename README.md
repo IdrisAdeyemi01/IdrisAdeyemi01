@@ -23,8 +23,7 @@ Here are a few projects (from your GitHub activity) that reflect what I do best:
 
 ## 📊 GitHub Stats
 
-[Idris’s GitHub stats](https://github-readme-stats.vercel.app/api?username=IdrisAdeyemi01&show_icons=true&theme=radical)
-
+[![Idris’s GitHub stats](https://github-readme-stats.vercel.app/api?username=IdrisAdeyemi01&show_icons=true&theme=radical)](https://github.com/IdrisAdeyemi01)
 ---
 
 ## ✨ Skills & Tech
