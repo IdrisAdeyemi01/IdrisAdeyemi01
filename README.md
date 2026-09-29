@@ -56,9 +56,9 @@ Here are a few projects (from your GitHub activity) that reflect what I do best:
 
 ## 🎯 Fun Facts
 
-- I like building, unfortunately, I build for others more than myself 🥲
+- I like building
 - I prefer travelling light — just a backpack and my laptop.  
-- I teach high school chemistry when I'm free
+- I teach high school Chemistry and Mathematics when I'm free
 
 ---
 
